@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/gaire07" target="blank"><img src="https://img.shields.io/twitter/follow/gaire07?logo=twitter&style=for-the-badge" alt="gaire07" /></a> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **JAVA**
 
-- 📫 How to reach me **prabesh07gaire234@gmail.com**
+- 📫 How to reach me **prabesh07gaire@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
